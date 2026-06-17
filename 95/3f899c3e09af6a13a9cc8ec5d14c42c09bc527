@@ -1,0 +1,51 @@
+tourist-spot/index.html
+  s_648cd6cbfbe6ff::t_d04a73c5d209d1 25-27
+  s_648cd6cbfbe6ff::t_e46c97de8dadbf 42-44
+  s_648cd6cbfbe6ff::t_db7a83ea2cc25b 97
+  h_927f72cf654be5 1-6,8-11,13-19,21,29,33,46,49-50,52,60,83,85-86,89-90,94-96,98
+  s_648cd6cbfbe6ff::t_549d1a3d1478a0 55
+  s_648cd6cbfbe6ff::t_faecbc3f6a96ac 56-58
+  s_648cd6cbfbe6ff::t_dd3ce60205e51d 7,12,20,30-32,34-41,45,47-48,51,53-54,59,61-69,73-82,84,91-93,99-101
+  s_648cd6cbfbe6ff::t_c221bf7d322162 70-72
+  s_648cd6cbfbe6ff::t_a00c30f26f815b 28
+  s_648cd6cbfbe6ff::t_1026a0a00a7c48 87-88
+  s_648cd6cbfbe6ff::t_dcc9372b303c18 22-24
+tourist-spot/style.css
+  s_648cd6cbfbe6ff::t_41d8b9a3e737b8 12-14
+  s_648cd6cbfbe6ff::t_b5e08762ddf1d5 135-138
+  s_648cd6cbfbe6ff::t_76823b7412c25d 69-73
+  s_648cd6cbfbe6ff::t_518422af6289ec 30,37-45
+  s_648cd6cbfbe6ff::t_f1b88ffb32b8a1 28-29,31
+  s_648cd6cbfbe6ff::t_860d75f9fbbeb0 19-21
+  s_648cd6cbfbe6ff::t_2e6c2eedc4a0dc 32-33,46-47,54-68
+  s_648cd6cbfbe6ff::t_052e1ed3fa8548 76-87
+  s_648cd6cbfbe6ff::t_86fdcee1afadb3 100,107,114,121,124-127
+  s_648cd6cbfbe6ff::t_7e06b0d96bac63 1,22,88-90,92,94-95,102,109,116-120,122,129-134,139-140,142-144,146-148,152,154-156,158,163,169
+  s_648cd6cbfbe6ff::t_9b7a6ec1390926 170-171,173
+  s_648cd6cbfbe6ff::t_9f3cecb9a205de 74-75
+  h_927f72cf654be5 2-6,9-11,15-18,24-26,91,96-99,103-106,110-113,141,150-151,159-160,162,164-168,172
+  s_648cd6cbfbe6ff::t_11d7883ab74091 7-8,23,93,101,108,115,123,128,145,149,153,157,161
+  s_648cd6cbfbe6ff::t_8ad41acaf29f7c 27,34-36,52-53
+  s_648cd6cbfbe6ff::t_3b7cceb47e1447 48-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "953f899c3e09af6a13a9cc8ec5d14c42c09bc527",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  },
+  "sessions": {
+    "s_648cd6cbfbe6ff": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "946bdb98-72b0-4650-b5fc-285187e1c457",
+        "model": "composer-2.5"
+      },
+      "human_author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
