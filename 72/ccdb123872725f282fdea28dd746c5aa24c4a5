@@ -1,0 +1,29 @@
+coffee-cake-cookies/index.html
+  h_927f72cf654be5 65
+  s_648cd6cbfbe6ff::t_9b589b9a6969c3 7,18-27,29,44-46,54-55,57-58,62,68
+coffee-cake-cookies/style.css
+  s_648cd6cbfbe6ff::t_da9ccc47c40299 42
+  h_927f72cf654be5 22,25-27,65-69,71-74
+  s_648cd6cbfbe6ff::t_087f71fe64bdf7 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "72ccdb123872725f282fdea28dd746c5aa24c4a5",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  },
+  "sessions": {
+    "s_648cd6cbfbe6ff": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "946bdb98-72b0-4650-b5fc-285187e1c457",
+        "model": "composer-2.5"
+      },
+      "human_author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
