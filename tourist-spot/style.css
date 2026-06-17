@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+}
+
+body {
+    background-color: #000000;
+    min-width: 1440px;
+    min-height: 3449px;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 1280px;
+    min-height: 3279px;
+    margin: 85px auto;
+    padding: 64px;
+    background-color: #F5F4F0;
+    border: 1px solid #D9D9D9;
+}
+
+.image-wrapper {
+    border-radius: 28px;
+    overflow: hidden;
+    background-color: #F5F4F0;
+    box-shadow: 0 4px 4px #D9D9D9;
+}
+
+.image-wrapper img {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+#hero .image-wrapper img {
+    height: auto;
+}
+
+.place .image-wrapper img {
+    height: 350px;
+}
+
+.place-beomeo .image-wrapper img {
+    transform: scale(1.08);
+}
+
+.place .image-wrapper {
+    margin-bottom: 20px;
+}
+
+#hero .subtitle {
+    font-style: italic;
+    color: #696969;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 40px;
+}
+
+.divider {
+    border: none;
+    border-top: 1px dashed #D9D9D9;
+}
+
+#destinations + .divider {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#hero h1 {
+    margin-bottom: 40px;
+}
+
+#hero + #destinations {
+    margin-top: 64px;
+}
+
+#destinations > .place:first-of-type {
+    margin-top: 64px;
+}
+
+.place + .place {
+    margin-top: 48px;
+}
+
+.eyebrow {
+    font-size: 16px;
+    font-weight: bold;
+    color: #E1624F;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1B1B1B;
+    margin-top: 4px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #1B1B1B;
+    margin-top: 4px;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #1B1B1B;
+    margin-bottom: 4px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 150%;
+    color: #333333;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #696969;
+}
+
+section p + p {
+    margin-top: 12px;
+}
+
+.place p:nth-of-type(2) {
+    font-weight: bold;
+}
+
+ul {
+    padding-left: 24px;
+    font-weight: bold;
+}
+
+.history {
+    color: #0C51A7;
+}
+
+.couples {
+    color: #591B98;
+}
+
+.family {
+    color: #E5245E;
+}
+
+.budget {
+    color: #E95E10;
+}
+
+footer {
+    color: #333333;
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
+
+footer .credits {
+    filter: drop-shadow(0 4px 4px #D9D9D9);
+}
