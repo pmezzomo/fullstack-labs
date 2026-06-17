@@ -1,0 +1,16 @@
+coffee-cake-cookies/style.css
+  h_927f72cf654be5 1-59
+coffee-cake-cookies/index.html
+  h_927f72cf654be5 3,9-11,13,58-59,61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "37b4f8bfba5c632703379b01b2772a39fe55881b",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
