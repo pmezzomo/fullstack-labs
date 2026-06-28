@@ -1,0 +1,22 @@
+travelgram/.gitignore
+  h_927f72cf654be5 1
+coffee-cake-cookies/index.html
+  h_927f72cf654be5 5-6,14,66,68,70
+travelgram/styles/index.css
+  h_927f72cf654be5 1
+travelgram/styles/global.css
+  h_927f72cf654be5 1-20
+travelgram/index.html
+  h_927f72cf654be5 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "2699947861920daae104892d51191ce1bb9a9667",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
