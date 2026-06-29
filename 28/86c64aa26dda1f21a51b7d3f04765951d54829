@@ -1,0 +1,20 @@
+travelgram/index.html
+  h_927f72cf654be5 33,55-68
+travelgram/styles/header.css
+  h_927f72cf654be5 3
+travelgram/styles/index.css
+  h_927f72cf654be5 4
+travelgram/styles/main.css
+  h_927f72cf654be5 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "2886c64aa26dda1f21a51b7d3f04765951d54829",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
