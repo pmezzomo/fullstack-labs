@@ -25,7 +25,6 @@ header .container{
     object-fit: cover;
     border-radius: 50%;
 }
-
 #profile h1{
     font: var(--text-lg);
     color: var(--text-color-primary);
