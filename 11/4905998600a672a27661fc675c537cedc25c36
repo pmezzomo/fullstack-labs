@@ -1,0 +1,31 @@
+travelgram/styles/header.css
+  h_927f72cf654be5 1-43
+travelgram/styles/global.css
+  h_927f72cf654be5 19-20
+travelgram/styles/index.css
+  h_927f72cf654be5 3
+travelgram/index.html
+  s_648cd6cbfbe6ff::t_58d4814053c4b1 28
+  h_927f72cf654be5 3,10,26-27,29-54,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "114905998600a672a27661fc675c537cedc25c36",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  },
+  "sessions": {
+    "s_648cd6cbfbe6ff": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "946bdb98-72b0-4650-b5fc-285187e1c457",
+        "model": "composer-2.5"
+      },
+      "human_author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
