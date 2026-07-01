@@ -1,0 +1,20 @@
+news-portal/styles/global.css
+  h_927f72cf654be5 18,57-65
+news-portal/styles/utility.css
+  h_927f72cf654be5 35-38
+news-portal/styles/section.css
+  h_927f72cf654be5 4,24-25,62-63,75,88-120
+news-portal/index.html
+  h_927f72cf654be5 66,75,84,103,109,115,147,166,185,204,212,227,248,276,290,297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "8e20f8b4b12b98458d08fabcf4c9f0b607143044",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
