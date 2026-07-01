@@ -4,7 +4,7 @@
     border-radius: 4px;
 }
 
-.card{
+.card {
     border-radius: 4px;
     overflow: hidden;
     position: relative;
@@ -21,7 +21,12 @@
         position: absolute;
         bottom: 0;
         padding: 24px;
-        h2{
+
+        &:has(.text-lg) {
+            padding: 12px;
+        }
+
+        h2 {
             margin-top: 8px;
         }
     }
