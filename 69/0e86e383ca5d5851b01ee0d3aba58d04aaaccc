@@ -1,0 +1,16 @@
+news-portal/styles/global.css
+  h_927f72cf654be5 57
+news-portal/styles/section.css
+  h_927f72cf654be5 1-22,24,27-28,33,46-50,53,56,59-61,64-67,69-74,77,79,82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "690e86e383ca5d5851b01ee0d3aba58d04aaaccc",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
